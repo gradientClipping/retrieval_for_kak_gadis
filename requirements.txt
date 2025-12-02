@@ -1,4 +1,6 @@
 streamlit
+torch
 numpy
-requests
 rank-bm25
+transformers
+peft
